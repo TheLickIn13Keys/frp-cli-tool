@@ -3,3 +3,5 @@ An easy to use, one command tool for frp (https://github.com/fatedier/frp/). The
 
 - Automatically creates a tunnel from client to server 
 - Configures cloudflare and domain if enabled 
+- And more!
+- WIP
